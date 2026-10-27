@@ -1,2 +1,2 @@
-# Example
-An example greeter plugin
+# Schluuuurp!
+This plugin replaces the OSRS potion drinking sound with a custom audio cue. Schluuuurp!
